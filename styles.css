@@ -1,0 +1,30 @@
+html {
+  background-color: rgb(244 251 218);
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(9 185 12 / 0.85);
+  font-size: 42px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h4 {
+  font-size: 35px;
+}
+
+p {
+  justify-content: center;
+  padding: 10px;
+}
